@@ -1,2 +1,4 @@
-package POS_System;public class POS {
+package POS_System;
+
+public class POS {
 }
